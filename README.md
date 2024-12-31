@@ -44,7 +44,7 @@ This is a fully functional **eCommerce platform** built using **Laravel** and **
 - **Framework**: [Laravel](https://laravel.com/)
 - **Database**: [MySQL](https://www.mysql.com/)
 - **Authentication**: Laravel's built-in authentication system
-- **Payment**: [Zarinpal](www.zarinpal.com)
+- **Payment**: [Zarinpal](https://www.zarinpal.com)
 
 ### **Frontend**
 - **Templating Engine**: [Blade](https://laravel.com/docs/blade)
