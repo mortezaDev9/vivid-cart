@@ -1,0 +1,14 @@
+{
+    "Auth": true,
+    "User": true,
+    "Product": true,
+    "Category": true,
+    "Order": true,
+    "Home": true,
+    "Review": true,
+    "Controller": true,
+    "Shop": true,
+    "Cart": true,
+    "Wishlist": true,
+    "Payment": true
+}
